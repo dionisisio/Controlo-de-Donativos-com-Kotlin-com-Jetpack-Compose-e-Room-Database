@@ -6,7 +6,7 @@ A *Gestão de Donativos* é um aplicativo desenvolvido em Kotlin, com recurso ao
 ---
 
 ### *Benefício*:
-Promove a solidariedade e a eficiência na distribuição de recursos ao conectar doadores e receptores de forma organizada, transparente e acessível. A plataforma ajuda a reduzir desperdícios e a maximizar o impacto social das doações.
+Promove a solidariedade e a eficiência na distribuição de recursos ao conectar doadores e receptores de forma organizada, transparente e acessível. A plataforma ajuda a reduzir desperdícios e a maximizar o impacto social das doações .
 
 ---
 
