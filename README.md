@@ -12,14 +12,14 @@ Promove a solidariedade e a eficiência na distribuição de recursos ao conecta
 
 ### *Funcionalidades*:
 1. *Cadastro de Usuários*:
-   - Registro de doadores (indivíduos ou empresas).
-   - Registro de receptores (ONGs, abrigos, ou pessoas necessitadas).
+   - Registo de doadores (indivíduos ou empresas).
+   - Registo de receptores (ONGs, abrigos, ou pessoas necessitadas).
 
 2. *Gestão de Doações*:
-   - Registro de itens doados, incluindo descrição, quantidade, local.
+   - Registo de itens doados, incluindo descrição, quantidade, local.
 
 3. *Histórico de Doações*:
-   - Registro de doações realizadas e recebidas, promovendo transparência e confiança entre usuários.
+   - Registo de doações realizadas e recebidas, promovendo transparência e confiança entre usuários.
 
 ---
 
